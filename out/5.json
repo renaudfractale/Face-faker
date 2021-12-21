@@ -1,0 +1,24 @@
+{
+     "data": {
+          "age": 54.43244171142578,
+          "genre": "male",
+          "ageRound": 54
+     },
+     "adresse_vie": {
+          "adresse": "69185 Gérard des Saussaies Suite 097",
+          "ville": "Clermont-Ferrand",
+          "codeZip": "03155"
+     },
+     "adresse_naissance": {
+          "ville": "La Seyne-sur-Mer",
+          "codeZip": "41667"
+     },
+     "date_naissance": "1967-07-27T19:24:28.543Z",
+     "date_inscription": "2021-12-21T04:04:40.121Z",
+     "tel_contact": "+33 211253486",
+     "email_contact": "lzar.Brun97@hotmail.fr",
+     "pseudo": "Gustavine.Lecomte40",
+     "password": "5c2e9943gd68Arb",
+     "firstName": "Adolphe",
+     "lastName": "Olivier"
+}

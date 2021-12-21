@@ -1,0 +1,24 @@
+{
+     "data": {
+          "age": 13.023277282714844,
+          "genre": "female",
+          "ageRound": 13
+     },
+     "adresse_vie": {
+          "adresse": "68305 Leclercq Charlemagne Apt. 053",
+          "ville": "Amiens",
+          "codeZip": "28900"
+     },
+     "adresse_naissance": {
+          "ville": "Saint-Denis",
+          "codeZip": "28171"
+     },
+     "date_naissance": "2008-12-15T01:41:46.776Z",
+     "date_inscription": "2021-12-21T04:04:32.273Z",
+     "tel_contact": "0236664805",
+     "email_contact": "Hincmar78@gmail.com",
+     "pseudo": "Gonzague.Petit",
+     "password": "kQj1OlalnxGiLdD",
+     "firstName": "Florence",
+     "lastName": "Roussel"
+}

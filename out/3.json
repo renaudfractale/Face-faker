@@ -1,0 +1,24 @@
+{
+     "data": {
+          "age": 33.36287307739258,
+          "genre": "female",
+          "ageRound": 33
+     },
+     "adresse_vie": {
+          "adresse": "8201 Gaspar de la Bûcherie Suite 531",
+          "ville": "Villejuif",
+          "codeZip": "13837"
+     },
+     "adresse_naissance": {
+          "ville": "Toulouse",
+          "codeZip": "85584"
+     },
+     "date_naissance": "1988-08-17T04:14:07.614Z",
+     "date_inscription": "2021-12-21T04:04:24.475Z",
+     "tel_contact": "+33 790803459",
+     "email_contact": "Honor.Chevalier@gmail.com",
+     "pseudo": "Aymardine_Berger",
+     "password": "4Tsu4XQPCaPiT_b",
+     "firstName": "Anne",
+     "lastName": "Gautier"
+}

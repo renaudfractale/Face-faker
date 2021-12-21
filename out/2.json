@@ -1,0 +1,24 @@
+{
+     "data": {
+          "age": 41.68667221069336,
+          "genre": "male",
+          "ageRound": 42
+     },
+     "adresse_vie": {
+          "adresse": "4335 Aimé Oberkampf Apt. 189",
+          "ville": "Villeneuve-d'Ascq",
+          "codeZip": "64819"
+     },
+     "adresse_naissance": {
+          "ville": "Brest",
+          "codeZip": "79542"
+     },
+     "date_naissance": "1980-04-22T14:30:15.147Z",
+     "date_inscription": "2021-12-21T04:04:16.672Z",
+     "tel_contact": "+33 462998286",
+     "email_contact": "Jade.Roy@yahoo.fr",
+     "pseudo": "Yoann.Garcia",
+     "password": "YzdPt4eKOsgWtig",
+     "firstName": "Léonard",
+     "lastName": "Morin"
+}

@@ -1,0 +1,24 @@
+{
+     "data": {
+          "age": 43.25168228149414,
+          "genre": "female",
+          "ageRound": 43
+     },
+     "adresse_vie": {
+          "adresse": "76452 Gerard Oberkampf Apt. 989",
+          "ville": "Perpignan",
+          "codeZip": "18895"
+     },
+     "adresse_naissance": {
+          "ville": "Strasbourg",
+          "codeZip": "02787"
+     },
+     "date_naissance": "1978-09-29T07:16:29.591Z",
+     "date_inscription": "2021-12-21T04:04:08.749Z",
+     "tel_contact": "+33 180538526",
+     "email_contact": "Oury.Maillard63@yahoo.fr",
+     "pseudo": "Alphée.Roche7",
+     "password": "cn2VPprbzi7zTD8",
+     "firstName": "Mallaury",
+     "lastName": "Huet"
+}
